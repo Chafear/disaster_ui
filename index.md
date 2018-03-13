@@ -13,7 +13,7 @@
 
 # **Resouces bar**
 
-<img src="collection/sc2/resouces.gif">
+<img src="collection/sc2/resources.gif">
 
 # **Unit info**
 
