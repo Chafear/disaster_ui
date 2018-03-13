@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!--## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chafear/disaster_ui/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -59,7 +59,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` tex
 
 [Link](url) and ![Image](src)
 ```
@@ -74,5 +74,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# *Rally point*
 [Image](collection/sc2/collection_point.gif)
 <img src="collection/sc2/collection_point.gif">
