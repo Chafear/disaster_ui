@@ -1,21 +1,17 @@
 
 <div class="grumpy-image-wrapper">
-    <img 
-        src="collection/sc2/minimap.gif"
-        data-srcset="collection/sc2/minimap.gif 100w, collection/sc2/minimap.gif 200w, collection/sc2/minimap.gif 300w"
-        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    />
+    <img class="grumpy-image" src="collection/sc2/minimap.gif" />
 </div>
 
 
 # **Rally point**
 
 
-<a class="thumb lazy-container" href="#">
-   <img class="lazy-container" data-src="collection/sc2/minimap.gif" 
+
+   <img  data-src="collection/sc2/minimap.gif" 
    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
    onload="lzld(this)">
-</a>
+
 
 
 # **Minimap**
