@@ -4,7 +4,7 @@
 
 
 
-   <img  data-src="collection/sc2/minimap.gif" 
+   <img  data-src="collection/sc2/collection_point.gif" 
    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
    onload="lzld(this)">
 
