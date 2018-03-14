@@ -3,7 +3,7 @@
 
 
 <a class="thumb lazy-container" href="#">
-   <img data-src="collection/sc2/minimap.gif" 
+   <img class="lazy-container" data-src="collection/sc2/minimap.gif" 
    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
    onload="lzld(this)">
 </a>
