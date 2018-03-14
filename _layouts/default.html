@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
 {% seo %}
-
+    <script src="https://cdnjs.com/libraries/lazyloadjs"></script></script> 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -54,40 +54,7 @@
         -->
       </footer>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <script >
-    
-    $(function() {
-  $('#gif-hover').hide();
-  $('#hover').on("mouseover", function() {
-    $('#hover').hide();
-    $('#gif-hover').show();
-    $('#pic-hover').hide();
-  });
-
-  $('#gif-hover').on("mouseout", function() {
-    $('#hover').show();
-    $('#gif-hover').hide();
-    $('#pic-hover').show();
-  });
-
-  $('#gif-click').hide();
-  $('#click').click(function() {
-    $('#click').hide();
-    $('#gif-click').show();
-    $('#pic-click').hide();
-  });
-
-  if ($('#click').data("clicked", true)) {
-    $('#gif-click').click(function() {
-      $('#click').show();
-      $('#gif-click').hide();
-      $('#pic-click').show();
-    });
-  }
-
-});
-    </script> 
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script></script> 
 
   {% if site.google_analytics %}
     <script>
