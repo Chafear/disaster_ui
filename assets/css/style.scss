@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import "responsivelyLazy.min.css";
 
 header {
     width: 200px;
