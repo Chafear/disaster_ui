@@ -1,6 +1,5 @@
 
-
-<div style="position:relative;height:0;padding-bottom:75%;">
+<div class="grumpy-image-wrapper">
     <img 
         src="collection/sc2/minimap.gif"
         data-srcset="collection/sc2/minimap.gif 100w, collection/sc2/minimap.gif 200w, collection/sc2/minimap.gif 300w"
