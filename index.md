@@ -3,9 +3,7 @@
 
 
 <a class="thumb lazy-container" href="#">
-  <img class="lazy" data-original="collection/sc2/collection_point.gif" data-src="collection/sc2/collection_point.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
+  <img class="lazy" data-original="collection/sc2/collection_point.gif">
 </a>
 
 
