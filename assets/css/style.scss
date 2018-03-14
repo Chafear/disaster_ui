@@ -16,3 +16,9 @@ section {
     width: 940px;
     margin: 0 auto;
 }
+img {
+    animation-play-state: paused;
+}
+img:hover {
+    animation-play-state: running;
+}
