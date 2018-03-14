@@ -1,20 +1,32 @@
 
 # **Rally point**
 
-<img src="collection/sc2/collection_point.gif">
+ <img data-src="collection/sc2/collection_point.gif" 
+   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+   onload="lzld(this)">
+
 
 # **Minimap**
 
-<img src="collection/sc2/minimap.gif">
+ <img data-src="collection/sc2/minimap.gif" 
+   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+   onload="lzld(this)">
 
 # **Queue**
 
-<img src="collection/sc2/queue.gif">
+ <img data-src="collection/sc2/queue.gif" 
+   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+   onload="lzld(this)">
 
 # **Resouces bar**
 
-<img src="collection/sc2/resources.gif">
+ <img data-src="collection/sc2/resources.gif" 
+   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+   onload="lzld(this)">
 
 # **Unit info**
 
-<img src="collection/sc2/unit_info.gif">
+ <img data-src="collection/sc2/unit_info.gif" 
+   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+   onload="lzld(this)">
+
