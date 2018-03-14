@@ -1,4 +1,12 @@
 
+
+<div style="position:relative;height:0;padding-bottom:75%;">
+    <img 
+        src="collection/sc2/minimap.gif"
+        data-srcset="collection/sc2/minimap.gif 100w, collection/sc2/minimap.gif 200w, collection/sc2/minimap.gif 300w"
+        style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    />
+</div>
 # **Rally point**
 
 
