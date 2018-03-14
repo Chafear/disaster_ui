@@ -1,8 +1,4 @@
 
-<div class="grumpy-image-wrapper">
-    <img class="grumpy-image" src="collection/sc2/minimap.gif" />
-</div>
-
 
 # **Rally point**
 
