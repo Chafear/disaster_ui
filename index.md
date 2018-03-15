@@ -19,8 +19,8 @@
 # **Queue**
 
 <video autoplay="autoplay" loop="loop" width="400" height="300">
-<source src="collection/sc2/_queue.mp4" type="video/mp4" />
-   </video>
+   <source src="collection/sc2/_queue.mp4" type="video/mp4" />
+</video>
 
 # **Queue**
 
