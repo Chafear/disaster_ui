@@ -18,6 +18,12 @@
 
 # **Queue**
 
+<video autoplay="autoplay" loop="loop" width="400" height="300">
+<source src="_queue.mp4" type="video/mp4" />
+   
+
+# **Queue**
+
  <img data-src="collection/sc2/queue.gif" 
    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
    onload="lzld(this)">
