@@ -18,10 +18,17 @@ section {
     margin: 0 auto;
     margin-bottom: 200px;
 }
+.grid-item { grid-area: desc; }
+
+.video-item {
+      width: 900px;
+      grid-area: vid;
+}
 
 .grid-container {
   display: grid;
+  grid-template-areas:
+    'vid vid vid vid vid desc';
+    
 }
-.video-item {
-      width: 900px;
-}
+
