@@ -8,8 +8,8 @@
    </video>
   </div>
   <div class="grid-item">
-    *GAME: StarCraft 2
-    *TYPE: Spatial
+    * GAME: StarCraft 2
+    * TYPE: Spatial
   </div>
 </div>
 
@@ -24,8 +24,8 @@
    </video>
   </div>
   <div class="grid-item">
-    *GAME: StarCraft 2
-    *TYPE: Non-diegetic
+    * GAME: StarCraft 2
+    * TYPE: Non-diegetic
   </div>
 </div>
 
@@ -39,8 +39,8 @@
    </video>
   </div>
   <div class="grid-item">
-    *GAME: StarCraft 2
-    *TYPE: Non-diegetic
+    * GAME: StarCraft 2
+    * TYPE: Non-diegetic
   </div>
 </div>
 
@@ -53,8 +53,8 @@
    </video>
   </div>
   <div class="grid-item">
-    *GAME: StarCraft 2
-    *TYPE: Non-diegetic
+    * GAME: StarCraft 2
+    * TYPE: Non-diegetic
   </div>
 </div>
 
@@ -69,8 +69,8 @@
    </video>
   </div>
   <div class="grid-item">
-    *GAME: StarCraft 2
-    *TYPE: Non-diegetic
+    * GAME: StarCraft 2
+    * TYPE: Non-diegetic
   </div>
 </div>
 
