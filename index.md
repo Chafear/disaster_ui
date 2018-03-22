@@ -2,19 +2,16 @@
 
 # **Rally point**
 
-
-
-   <img  data-src="collection/sc2/collection_point.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
-
+<video autoplay="autoplay" loop="loop" width="100%" height="100%">
+   <source src="collection/sc2/collection_point.mp4" type="video/mp4" />
+</video>
 
 
 # **Minimap**
 
- <img data-src="collection/sc2/minimap.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
+<video autoplay="autoplay" loop="loop" width="100%" height="100%">
+   <source src="collection/sc2/minimap.mp4" type="video/mp4" />
+</video>
 
 # **Queue**
 
@@ -22,21 +19,17 @@
    <source src="collection/sc2/q.mp4" type="video/mp4" />
 </video>
 
-# **Queue**
-
- <img data-src="collection/sc2/queue.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
-
 # **Resouces bar**
 
- <img data-src="collection/sc2/resources.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
+
+<video autoplay="autoplay" loop="loop" width="100%" height="100%">
+   <source src="collection/sc2/resources.mp4" type="video/mp4" />
+</video>
 
 # **Unit info**
 
- <img data-src="collection/sc2/unit_info.gif" 
-   src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-   onload="lzld(this)">
+
+<video autoplay="autoplay" loop="loop" width="100%" height="100%">
+   <source src="collection/sc2/unit_info.mp4" type="video/mp4" />
+</video>
 
