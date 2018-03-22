@@ -2,7 +2,7 @@
 # **Rally point**
 
 <div class="grid-container">
-  <div class="grid-item" width="900">
+  <div class="video-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/sc2/collection_point.mp4" type="video/mp4" />
    </video>
@@ -15,7 +15,7 @@
 # **Minimap**
 
 <div class="grid-container">
-  <div class="grid-item" width="900">
+  <div class="video-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/minimap.mp4" type="video/mp4" />
    </video>
@@ -27,7 +27,7 @@
 # **Queue**
 
 <div class="grid-container">
-  <div class="grid-item" width="900">
+  <div class="video-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/q.mp4" type="video/mp4" />
    </video>
@@ -38,7 +38,7 @@
 # **Resouces bar**
 
 <div class="grid-container">
-  <div class="grid-item" width="900">
+  <div class="video-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/resources.mp4" type="video/mp4" />
    </video>
@@ -51,7 +51,7 @@
 # **Unit info**
 
 <div class="grid-container">
-  <div class="grid-item" width="900">
+  <div class="gvideo-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/unit_info.mp4" type="video/mp4" />
    </video>
