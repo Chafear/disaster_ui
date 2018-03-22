@@ -63,7 +63,7 @@
 # **Unit info**
 
 <div class="grid-container">
-  <div class="gvideo-item">
+  <div class="video-item">
    <video autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/unit_info.mp4" type="video/mp4" />
    </video>
