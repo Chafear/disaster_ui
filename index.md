@@ -18,24 +18,24 @@ _GAME: StarCraft 2 TYPE: Spatial_
 
 
 # **Queue**
-
+*GAME: StarCraft 2 TYPE: Non-diegetic*
    <video class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/q.mp4" type="video/mp4" />
    </video>
-     *GAME: StarCraft 2 TYPE: Non-diegetic*
+
 
 # **Resouces bar**
-
+*GAME: StarCraft 2 TYPE: Non-diegetic*
    <video class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/resources.mp4" type="video/mp4" />
    </video>
-     *GAME: StarCraft 2 TYPE: Non-diegetic*
+
 
 # **Unit info**
-
+*GAME: StarCraft 2 TYPE: Non-diegetic*
    <video class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
       <source src="collection/sc2/unit_info.mp4" type="video/mp4" />
    </video>
-     *GAME: StarCraft 2 TYPE: Non-diegetic*
+     
 
 
