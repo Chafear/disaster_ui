@@ -1,6 +1,6 @@
 
 # **Rally point**
-
+<hr /->
 
 ### StarCraft 2
 ##### _TYPE: Spatial_
