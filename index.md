@@ -1,5 +1,5 @@
 
-<h1> <b>rally point</b> </h1> 
+# **rally point**
 
 
 ### StarCraft 2
