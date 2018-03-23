@@ -20,17 +20,9 @@ section {
 
     
 }
-.grid-item { grid-area: desc; }
-
 .video-item {
       width: 950px;
-      grid-area: vid;
+
 }
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'vid  desc';
-    
-}
 
