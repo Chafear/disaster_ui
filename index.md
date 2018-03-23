@@ -2,7 +2,8 @@
 # **Rally point**
 
 
-##### _StarCraft 2 | Spatial_
+### **StarCraft 2**
+##### _TYPE: Spatial_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/sc2/collection_point.mp4" type="video/mp4" />
    </video>
