@@ -6,14 +6,14 @@
 # **tutorial**
 
 ### Oxenfree
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/oxenfree/tutorial.mp4" type="video/mp4" />
    </video>
 
 
 ### Oxenfree
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/oxenfree/tutorial_2.mp4" type="video/mp4" />
    </video>
@@ -34,7 +34,7 @@
 
 
 ### Oxenfree
-##### _TYPE: Spatial_
+##### _TYPE: Meta_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/oxenfree/navigation.mp4" type="video/mp4" />
    </video>
@@ -43,7 +43,7 @@
 
 
 ### Oxenfree
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/oxenfree/map.mp4" type="video/mp4" />
    </video>
@@ -73,7 +73,7 @@
 
 
 ### StarCraft 2
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/sc2/system_message.mp4" type="video/mp4" />
    </video>
@@ -99,7 +99,7 @@
 
 
 ### StarCraft 2
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/sc2/notifications.mp4" type="video/mp4" />
    </video>
@@ -121,7 +121,7 @@
 
 
 ### StarCraft 2
-##### _TYPE: Spatial_
+##### _TYPE: Non-diegetic_
    <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
     <source src="collection/sc2/build_menu.mp4" type="video/mp4" />
    </video>
