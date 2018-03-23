@@ -1,5 +1,5 @@
 
-# **Rally point**
+# **rally point**
 <hr /->
 
 ### StarCraft 2
