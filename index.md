@@ -1,7 +1,9 @@
 
 
 
-
+   <video  class="video-item" autoplay="autoplay" loop="loop" width="100%" height="100%">
+    <source src="collection/wlib/main2.mp4" type="video/mp4" />
+   </video>
 
 # **tutorial**
 
